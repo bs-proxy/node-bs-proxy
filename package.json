@@ -1,0 +1,24 @@
+{
+  "name": "node-bs-proxy",
+  "version": "1.0.0",
+  "description": "Brawl Stars Proxy",
+  "homepage": "https://github.com/bs-proxy/node-bs-proxy",
+  "bugs": {
+    "url": "https://github.com/bs-proxy/issues"
+  },
+  "main": "index.js",
+  "license": "GNU GPLv3",
+  "engines": {
+    "node": ">=6.8.0"
+  },
+  "dependencies": {
+    "bytebuffer": "^5.0.1",
+    "command-line-args": "^4.0.2",
+    "command-line-usage": "^4.0.0",
+    "console-stamp": "^0.2.5",
+    "bs-messages": "bs-proxy/bs-messages",
+    "jsome": "^2.3.26",
+    "colors": "0.x.x",
+    "tweetnacl": "^0.14.5"
+  }
+}
